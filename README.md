@@ -9,5 +9,7 @@ File " Wallet " contains the total interest calculation for the wallet which con
 File "PersonsInput " accepts input values such as no. of people, no. of cards, balance in the cards etc. It also contains the Interest calculation per person. 
 
 File "Person" contains total simple interest calculation per wallet per person. 
+
+File "TestCreditCard" contains the Test Cases. 
  
  
